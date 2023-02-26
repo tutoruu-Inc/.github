@@ -20,7 +20,7 @@ Tutoruu is a web-based platform, so there's no need to install any software. Sim
 
 ## Contributing
 
-We welcome contributions from developers, educators, and other stakeholders who share our passion for improving education. Please read our contributing guidelines to learn more.
+We welcome contributions from developers, educators, and other stakeholders who share our passion for improving education. Please read our [contributing guidelines](/CONTRIBUTE.md) to learn more.
 
 ## Contact
 
