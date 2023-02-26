@@ -15,7 +15,7 @@ To contribute to Tutoruu, follow these steps:
 
 ## Code Standards
 
-Before contributing to Tutoruu, please review our code standards to ensure that your code adheres to our guidelines. Here are some of the key standards to keep in mind:
+Before contributing to Tutoruu, please review our [code standards](/STYLE.md) to ensure that your code adheres to our guidelines. Here are some of the key standards to keep in mind:
 
 - Follow the JavaScript Standard Style for code formatting
 - Use meaningful variable and function names
