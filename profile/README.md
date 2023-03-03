@@ -28,4 +28,4 @@ To learn more about Tutoruu or get in touch with our team, visit our [website](h
 
 ## License
 
-Tutoruu is licensed under the MIT license. See the LICENSE file for details.
+Public repos on the Tutoruu organization are licensed under the MIT license unless otherwise specified. See the LICENSE file for details.
