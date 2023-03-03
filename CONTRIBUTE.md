@@ -1,6 +1,6 @@
 # Tutoruu - Contribution Guidelines
 
-Thank you for your interest in contributing to Tutoruu. We welcome contributions from developers, educators, and other stakeholders who share our passion for improving education.
+Thank you for your interest in contributing to Tutoruu. We welcome contributions from developers, educators, and other stakeholders who share our passion for empowering students.
 
 ## How to Contribute
 
