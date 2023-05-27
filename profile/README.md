@@ -7,8 +7,8 @@ Welcome to the tech HQ transforming the education industry by providing personal
 Our tech stack includes some of the latest technologies, including:
 
 - Languages: Javascript (Typescript), PHP, Java
-- Backend: Node.js, Express, MongoDB, SQL, Laravel, Sprint Boot
-- Frontend: React, Svelte, Vue
+- Backend: Node.js, Express, MongoDB, SQL, Laravel, Spring Boot
+- Frontend: React/React Native (Next), Svelte, Vue
 - Payment Gateway: Fawry
 - Mailing: Twilio Sendgrid
 - Event tracking: Segment, Mixpanel, Google Analytics, Hotjar
