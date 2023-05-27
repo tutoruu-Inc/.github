@@ -24,7 +24,7 @@ We welcome contributions from developers, educators, and other stakeholders who 
 
 ## Contact
 
-To learn more about Tutoruu or get in touch with our team, visit our [website](https://www.tutoruu.com). You can also send us an email at info@tutoruu.com.
+To learn more about Tutoruu or get in touch with our team, visit our [website](https://www.tutoruu.com). You can also send us an email at support@tutoruu.com.
 
 ## License
 
